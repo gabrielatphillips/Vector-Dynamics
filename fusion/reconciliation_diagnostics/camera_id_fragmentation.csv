@@ -1,0 +1,5 @@
+method,camera_track_id,persistent_id_count,persistent_ids
+baseline,182,2,145;170
+baseline,281,2,292;304
+reconciled,182,2,282;337
+reconciled,281,2,526;541

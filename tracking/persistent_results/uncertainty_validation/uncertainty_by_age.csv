@@ -1,0 +1,7 @@
+scenario,group,total_positions,available_positions,coverage_pct,mean_error_px,median_error_px,p95_error_px,mean_uncertainty_px,mean_age_ms,inside_approx_95_pct,unavailable_count,expired_count
+baseline,0-100 ms,2289,2289,100.0,1.118,0.3,5.012,2.675,0.0,92.97,0,0
+network_test,0-100 ms,1663,1663,100.0,7.348,2.071,33.219,7.143,59.65,83.1,0,0
+network_test,100-200 ms,482,482,100.0,9.336,1.734,51.136,17.843,121.49,89.83,0,0
+network_test,200-300 ms,23,23,100.0,19.203,6.679,44.522,50.245,223.4,95.65,0,0
+network_test,300-400 ms,4,4,100.0,11.425,7.958,25.219,91.858,308.65,100.0,0,0
+network_test,400+ ms,2,2,100.0,72.483,72.483,126.736,200.505,467.1,100.0,0,0

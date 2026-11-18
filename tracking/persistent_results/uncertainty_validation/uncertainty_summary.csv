@@ -1,0 +1,9 @@
+scenario,group,total_positions,available_positions,coverage_pct,mean_error_px,median_error_px,p95_error_px,mean_uncertainty_px,mean_age_ms,inside_approx_95_pct,unavailable_count,expired_count
+baseline,overall,2289,2289,100.0,1.118,0.3,5.012,2.675,0.0,92.97,0,0
+baseline,normal,1271,1271,100.0,0.978,0.271,4.617,2.675,0.0,93.94,0,0
+baseline,congested,550,550,100.0,0.691,0.16,3.558,2.618,0.0,95.82,0,0
+baseline,recovered,468,468,100.0,2.002,0.783,7.771,2.744,0.0,86.97,0,0
+network_test,overall,2289,2174,94.98,7.982,2.009,38.108,10.305,75.93,84.77,106,9
+network_test,normal,1271,1215,95.59,6.322,1.545,28.734,7.531,61.29,86.34,55,1
+network_test,congested,550,514,93.45,8.474,1.603,45.765,18.567,121.0,90.27,31,5
+network_test,recovered,468,445,95.09,11.943,4.904,51.656,8.335,63.81,74.16,20,3

@@ -1,0 +1,7 @@
+scenario,phase,reference_positions,available_positions,availability_pct,unavailable,expired,missing,stale,mean_error_px,p95_error_px,received_packets_total,completed_rtt_probes_total
+baseline,normal,1271,1271,100.0,0,0,0,0,0.978,4.617,2289,407
+baseline,congested,550,550,100.0,0,0,0,0,0.691,3.558,2289,407
+baseline,recovered,468,468,100.0,0,0,0,0,2.002,7.771,2289,407
+network_test,normal,1271,1215,95.59,55,1,22,1,6.322,28.734,2212,406
+network_test,congested,550,514,93.45,31,5,462,3,8.474,45.765,2212,406
+network_test,recovered,468,445,95.09,20,3,21,2,11.943,51.656,2212,406

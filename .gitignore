@@ -9,3 +9,9 @@ vision/results/
 data/raw/
 *.exe
 *.o
+
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.log

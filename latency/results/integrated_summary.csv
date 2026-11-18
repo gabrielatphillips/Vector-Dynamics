@@ -1,0 +1,4 @@
+scenario,mean_error_px,p95_error_px,evaluated_positions,stale_positions,unavailable_positions,received_packets
+normal,13.0,64.026,1208,228,853,2283
+congested,15.394,76.481,1159,241,889,2281
+recovered,13.409,64.473,1211,227,851,2283

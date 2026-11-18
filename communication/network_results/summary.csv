@@ -1,0 +1,3 @@
+module,sent,accepted,dropped,corrupted,disconnected,rejected
+front,200,172,19,9,0,9
+rear,200,144,15,1,40,1
